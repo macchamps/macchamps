@@ -1,5 +1,6 @@
 
-# Hi there 👋,  I'm Monang Champaneri &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [![](https://visitcount.itsvg.in/api?id=macchamps&label=Profile%20Views&color=3&icon=5&pretty=true)](https://visitcount.itsvg.in)             
+# Hi there 👋,  I'm Monang Champaneri\
+[![](https://visitcount.itsvg.in/api?id=macchamps&label=Profile%20Views&color=3&icon=5&pretty=true)](https://visitcount.itsvg.in)             
 
 I am a seasoned iOS developer with 6 years of hands-on experience in crafting high-quality and innovative mobile applications for the iOS platform. My passion for technology, combined with a strong foundation in software development, has allowed me to contribute to the success of numerous projects throughout my career.
 
