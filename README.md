@@ -61,7 +61,7 @@ I am a seasoned iOS developer with 6 years of hands-on experience in crafting hi
 
 
 ## System 💻
-![macbook](https://img.shields.io/badge/Apple-MacBook_Pro 2023 M3-999999?style=for-the-badge&logo=apple&logoColor=white)
+![macbook](https://img.shields.io/badge/Apple-MacBook_Pro_2023_M3-999999?style=for-the-badge&logo=apple&logoColor=white)
 ![windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)![intel](https://img.shields.io/badge/Intel-Core_i7_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
 
 ## Github Stats
